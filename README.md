@@ -135,7 +135,7 @@
 
 - [ ] Network Level
 
-## 2.2 Information Exchange: Accessing or Transferring the Information
+## Information Exchange: Accessing or Transferring the Information
 
 ### Méthode d'Échange d'Information
 
@@ -192,7 +192,7 @@
 - [ ] MS One Drive
 - [ ] Other
 
-### 3.1.4 Step 4: Identify Specific Protection Requirements
+### Step 4: Identify Specific Protection Requirements
 
 ### Le cadre de gestion des risques de NIST (RMF) a-t-il été appliqué aux systèmes concernés ?
 
@@ -453,7 +453,7 @@
 - [ ] c) Annually
 - [ ] d) As needed
 
-### 3.1.5 Step 5: Document Appropriate Agreements
+### Document Appropriate Agreements
 
 ### Types d'Accords Nécessaires
 
